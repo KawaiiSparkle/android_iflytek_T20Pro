@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_ctg3-user
-add_lunch_combo omni_ctg3-userdebug
-add_lunch_combo omni_ctg3-eng
+add_lunch_combo ctg3-user
+add_lunch_combo ctg3-userdebug
+add_lunch_combo ctg3-eng
