@@ -17,9 +17,9 @@ $(call inherit-product, device/iflytek/ctg3/device.mk)
 
 PRODUCT_DEVICE := ctg3
 PRODUCT_NAME := ctg3
-PRODUCT_BRAND := ctg3
+PRODUCT_BRAND := iflytek
 PRODUCT_MODEL := ctg3
-PRODUCT_MANUFACTURER := ctg3
+PRODUCT_MANUFACTURER := iflytek
 
 PRODUCT_GMS_CLIENTID_BASE := android-iflytek
 
