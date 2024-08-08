@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ctg3.mk
+    $(LOCAL_DIR)/ctg3.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ctg3-user \
-    omni_ctg3-userdebug \
-    omni_ctg3-eng
+    ctg3-user \
+    ctg3-userdebug \
+    ctg3-eng
