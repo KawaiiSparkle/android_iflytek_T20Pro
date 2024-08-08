@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/iflytek/ctg3/device.mk)
 
 PRODUCT_DEVICE := ctg3
-PRODUCT_NAME := omni_ctg3
+PRODUCT_NAME := ctg3
 PRODUCT_BRAND := iFLYTEK
 PRODUCT_MODEL := ctg3
 PRODUCT_MANUFACTURER := iflytek
